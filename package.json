@@ -1,4 +1,5 @@
 {
+  "name": "bun-bug",
   "type": "module",
   "dependencies": {
     "react": "^18.2.0",
